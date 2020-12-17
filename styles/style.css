@@ -317,10 +317,9 @@
 }
 
 .footer__social-icon {
-    width: 16px;
-    height: 16px;
-    margin-left: 0px;
-    margin-right: 10px;
+  width: 16px;
+  height: 16px;
+  margin: 0 10px 0 0;
 }
 
 /* including elements with key-value modifiers */
