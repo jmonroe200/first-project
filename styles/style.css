@@ -126,7 +126,7 @@
 }
 
 .two-columns__span-accent {
-  line height: 34px;
+  line-height: 34px;
   font-size: 24px;
   font-weight: bold;
 }
@@ -169,7 +169,7 @@
 }
 
 .table__heading {
-  line height: 1.15;
+  line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
   margin: 0;
