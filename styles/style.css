@@ -14,43 +14,6 @@
 }
 
 
-.kaufman {
-  background-color: #1f1f1f;
-  overflow: hidden;
-  position: relative;
-  padding-top: 90px;
-  padding-bottom: 90px;
-  z-index: 1;
-}
-
-.kaufman__triangle {
-  position: absolute;
-  background-image: url('../images/kaufman-triangle.svg');
-  width: 877px;
-  height: 877px;
-  background-size: contain;
-  right: -210px;
-  top: 0px;
-  background-repeat: no-repeat;
-  z-index: -1;
-}
-
-.footer {
-  display: flex;
-  padding-top: 60px;
-  padding-bottom: 40px;
-  min-height: 350px;
-  background-color: #1f1f1f;
-  color: white;
-}
-
-.footer__columns {
-  display: flex;
-  justify-content: space-between;
-  width: 90%;
-  margin: 0 auto;
-}
-
 .footer__column_content_copyright {
   display: flex;
   flex-direction: column;
